@@ -1,8 +1,1 @@
-# IT-Systems-Q2-2021
-
-##Step 1
-
-Hello Renee!
-
-###
-hello
+# 2 truths
